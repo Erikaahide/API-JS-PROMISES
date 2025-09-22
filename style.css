@@ -49,6 +49,7 @@
     background:transparent;
     border:1px solid var(--border);
     color:var(--text);
+    font-size: 18px;
     padding:12px 14px;
     border-radius:10px;
     outline:none;
